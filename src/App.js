@@ -1,25 +1,42 @@
-import logo from './logo.svg';
-import './App.css';
+//import ReactDOM from 'react-dom/client';
+import React, {Component} from 'react';
+import $ from 'jquery';
 
-function App() {
+import Header from './components/Header'
+import Navbar from './components/Navbar/Navbar'
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+
+
+import Catalog from './components/Catalog'
+import Join from './components/Join'
+import About from './components/About'
+
+
+import './css/About.css';
+import './css/Catalog.css';
+import './css/Navline.css';
+import './css/Header.css';
+
+export default class App extends Component
+{
+  componentDidMount() {
+    $('.'+ window.cLang).addClass('langActive');
+  }
+  render(){
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
-
-export default App;
+    <>
+    <Header/>
+    <Router>
+      <Navbar />
+      <Routes>
+        <Route path='/About'  element={<><About/></>}/>
+        <Route path='/Catalog' element={<><Catalog/></>}/>
+        <Route path='/Join' element={<><Join/></>}/>
+        <Route  path="/" element={<><About/></>}/>
+      </Routes>
+    </Router>   
+    </>
+  
+  )
+  }
+};
