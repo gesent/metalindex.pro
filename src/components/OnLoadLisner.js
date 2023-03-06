@@ -1,4 +1,4 @@
-import React from 'react';
+//import React from 'react';
 import $ from 'jquery';
 class OnLoadLisner extends React.Component {
     constructor(props) {

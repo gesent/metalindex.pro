@@ -8,6 +8,9 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 
 var DefLang = Intl.DateTimeFormat().resolvedOptions().locale.split("-");
 window.cLang = DefLang[1];
+window.IPv4 =  "";
+window.country_name = "";
+window.DisplayArray = [0];
 
 root.render(
   <React.StrictMode>

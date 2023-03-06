@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="8" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="9" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="10" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="11" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="12" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="13" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="16" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="17" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">idAd</Data></Cell>
+			<Cell><Data ss:Type="String">Ad_KeyWords</Data></Cell>
+			<Cell><Data ss:Type="String">Name_US</Data></Cell>
+			<Cell><Data ss:Type="String">Name_RU</Data></Cell>
+			<Cell><Data ss:Type="String">Name_UZ</Data></Cell>
+			<Cell><Data ss:Type="String">Email</Data></Cell>
+			<Cell><Data ss:Type="String">Phone</Data></Cell>
+			<Cell><Data ss:Type="String">Contact</Data></Cell>
+			<Cell><Data ss:Type="String">AdBody_US</Data></Cell>
+			<Cell><Data ss:Type="String">AdBody_RU</Data></Cell>
+			<Cell><Data ss:Type="String">AdBody_UZ</Data></Cell>
+			<Cell><Data ss:Type="String">imgLink</Data></Cell>
+			<Cell><Data ss:Type="String">AttachmentFileList</Data></Cell>
+			<Cell><Data ss:Type="String">ClickCount</Data></Cell>
+			<Cell><Data ss:Type="String">DisplayCount</Data></Cell>
+			<Cell><Data ss:Type="String">Country</Data></Cell>
+			<Cell><Data ss:Type="String">CountryList</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">metal, pipes, channel, метал, трубы, швеллер, test</Data></Cell>
+			<Cell><Data ss:Type="String">UPSK-export  1</Data></Cell>
+			<Cell><Data ss:Type="String">УПСК-экспорт</Data></Cell>
+			<Cell><Data ss:Type="String">UPSK-eksport</Data></Cell>
+			<Cell><Data ss:Type="String">gesent@mailru</Data></Cell>
+			<Cell><Data ss:Type="String">212-619-3800</Data></Cell>
+			<Cell><Data ss:Type="String">Sergey G.</Data></Cell>
+			<Cell><Data ss:Type="String">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget gravida cum sociis natoque penatibus et magnis. Et magnis dis parturient montes nascetur ridiculus mus mauris vitae. Purus gravida quis blandit turpis cursus in. Ac turpis egestas sed tempus. Tempus urna et pharetra pharetra massa massa. Erat pellentesque adipiscing commodo elit at imperdiet dui. Blandit libero volutpat sed cras. Sed ullamcorper morbi tincidunt ornare massa eget egestas. Vitae turpis massa sed elementum tempus egestas sed. Egestas egestas fringilla phasellus faucibus scelerisque. Aliquet bibendum enim facilisis gravida. Erat nam at lectus urna. Dignissim convallis aenean et tortor at risus viverra adipiscing.</Data></Cell>
+			<Cell><Data ss:Type="String">Важно заботиться о пациенте, следить за врачом, но это время великой боли и страданий. Ему нужно быть беременным от своих партнеров и родиться большим и толстым. И родят горы великий толчок, и родится смешная мышь жизни. Чистая беременная, которая льстит уродливому курсу. А безобразному нужно лишь время. Урна времени и колчан массы массы колчана. Это была хорошая инвестиция для студентов. Это льстит свободным выходным, но завтра. Но тело болезни нужно покрыть массой. Масса жизни уродлива, но необходим элемент времени. Потребность в простом, восхитительном шоколадном вкусе. Для беременных легко употреблять алкоголь. Для кровати была урна.</Data></Cell>
+			<Cell><Data ss:Type="String">Bemorga g'amx o'rlik qilish, shifokor kuzatib borishi muhim, ammo bu juda og'ir va azobli vaqt. U sheriklari bilan homilador bo'lishi va katta va semiz tug'ilishi kerak. Va tog'lar katta turtki beradi va hayotning kulgili sichqonchasi tug'iladi. Xunuk kursga xushomad qilgan sof homilador. Va yomon kerak, lekin vaqt. Vaqt urni va titroq massa massasi. Bu talabalar uchun yaxshi sarmoya bo'ldi. Bu bepul dam olish kunlarini yaxshilaydi, lekin ertaga. Ammo kasallikning tanasi massa bilan qoplanishi kerak. Hayotning massasi xunuk, lekin vaqt elementi kerak. Oddiy, mazali shokolad ta'miga bo'lgan ehtiyoj. Homilador ayollar uchun spirtli ichimliklarni ichish oson. Chunki karavot urna edi. Dignissim convallis aenean et tortor va risus viverra adipiscing.</Data></Cell>
+			<Cell><Data ss:Type="String">../img/photo_2022-10-19_10-13-28.jpg</Data></Cell>
+			<Cell><Data ss:Type="String">sample.docx</Data></Cell>
+			<Cell><Data ss:Type="Number"></Data></Cell>
+			<Cell><Data ss:Type="Number"></Data></Cell>
+			<Cell><Data ss:Type="String">Russia,Рассия,Rossiya</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
